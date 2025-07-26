@@ -54,19 +54,19 @@ const Navbar = ({ className }) => {
         <div className="flex items-center justify-between py-2">
           <Link className="flex items-center gap-1" to="/">
             <StaticImage
-              src="../img/logo.png"
+              src="../img/logo2.png"
               alt="SMK Daarussaadah Logo"
-              className="w-8 h-8 sm:w-10 sm:h-10"
+              className="w-12 h-12 sm:w-10 sm:h-10"
               layout="constrained"
-              width={45}
-              height={45}
+              width={40}
+              height={40}
               loading="eager"
-              backgroundColor="transparent"
+              backgroundColor="white"
               placeholder="blurred"
             />
             <div className="text-xl font-bold tracking-wide lg:text-2xl">
-              <span className="text-gray-800 font-semibold">SMK</span>
-              <span className="text-green-700">Daarussaadah</span>
+              <span className="text-gray-800 font-semibold">Alamijo</span>
+              <span className="text-green-700">Store</span>
             </div>
           </Link>
 
@@ -101,7 +101,7 @@ const Navbar = ({ className }) => {
                 setMenuOpen(false)
               }}
             >
-              Depan
+              Intro
             </ExactNavLink>
             <PartialNavLink
               to="/projects"
@@ -109,7 +109,7 @@ const Navbar = ({ className }) => {
                 setMenuOpen(false)
               }}
             >
-              Kegiatan
+              Produk
             </PartialNavLink>
             <ExactNavLink
               to="/about"

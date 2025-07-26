@@ -7,21 +7,21 @@ contactform:
   heading: Kami siap membantu Anda
   description: " Kirimkan pesan melalui formulir di bawah ini, atau kirimkan email
     kepada kami."
-  image: /img/perpustakaan.jpg
+  image: /img/kontak.jpeg
 office:
-  tagline: Plang SMK Daarussaadah
-  location: Pasar Kemis Kota Tangerang
+  tagline: Pusat Minuman Kacang Hijau Sehat & Alami
+  location: Jl.Binong Permai Blok B32 No.20
   address: |-
-    SMK Daarussaadah
+    Alamijo Store
 
-    Kota
+    Binong Permai
 
-    Tangerang
+    Kota Tangerang, Banten
   phone: |-
-    Email: info@smk-daarussaadah.sch.id
+    Email: info@alamijostore.com
 
-    Phone: 0853000000
+    Phone: 088293399794
 
-    Senin s.d Sabtu 08.00 -14.00 Wib.
-  image: /img/smk-daarussaadah.jpg
+    Senin – Sabtu, 08.00 – 16.00 WIB
+  image: /img/kontak2.jpeg
 ---

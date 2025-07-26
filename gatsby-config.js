@@ -78,7 +78,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#047857`,
         display: `standalone`,
-        icon: `src/img/logo.png`,
+        icon: `src/img/fav.png`,
       },
     },
     "gatsby-transformer-remark-frontmatter",

@@ -1,17 +1,15 @@
 ---
 templateKey: index-page
-title: Official Website SMK Daarussa'adah
-image: /img/tasakuran.jpg
-heading: SMK Daarussa'adah Tangerang
-subheading: Berkarakter, Berprestasi dan Berpesantren
+title: Alamijo Store
+image: /img/banner.jpg
+heading: Alamijo Store
+subheading: Kacang Hijau Berkualitas, Langsung dari Alam
 about:
-  heading: Siapa Kami
-  description: Kami adalah lembaga pendidikan vokasi SMK Daarussa'adah yang
-    berkomitmen mengambil tanggung jawab dalam mencetak SDM yang mumpuni dapat
-    bersaing di dunia industri dan bisnis.
+  heading: Tentang Kami
+  description: Di Alamijo, kami menghadirkan kacang hijau alami dengan kualitas terbaik, tanpa bahan pengawet dan tanpa tambahan zat kimia. Kami percaya bahwa makanan sehat harus berasal dari sumber yang murni dan alami, sehingga setiap butir kacang hijau kami dipilih dengan teliti untuk memastikan manfaat gizi yang optimal.
   image:
-    image: /img/penyerahan-piagam.jpg
-    alt: Para siswa SMK Daarussa'adah kegiatan kelas industri
+    image: /img/about.jpeg
+    alt: Botol kemasas dari Alamijo Store
   button:
     url: /about
     label: Mengetahui lebih lanjut

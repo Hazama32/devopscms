@@ -11,7 +11,7 @@ const Footer = () => {
             <div className="px-4 sm:px-6 lg:px-8">
               <Link className="flex items-center gap-1" to="/">
                 <StaticImage
-                  src="../img/logo.png"
+                  src="../img/logo2.png"
                   alt="Logo SMK Daarussaadah"
                   layout="fixed"
                   width={40}
@@ -20,14 +20,13 @@ const Footer = () => {
                   placeholder="blurred"
                 />
                 <div className="text-xl font-bold tracking-wide">
-                  <span className="text-gray-800 font-semibold">SMK</span>
-                  <span className="text-green-700">Daarussaadah</span>
+                  <span className="text-gray-800 font-semibold">Alamijo</span>
+                  <span className="text-green-700">Store</span>
                 </div>
               </Link>
 
               <p className="max-w-md mt-2 text-gray-600 dark:text-gray-400">
-                Konsep belajar SMK Daarussaadah Praktis dan Berpesantren
-                Menjadikan Siswa/i cepat memahami dalam setiap pembelajaran Ilmu, Teknologi dan Islam.
+                Hadir sebagai penyedia minuman kacang hijau alami yang sehat, higienis, dan praktis. Mendukung gaya hidup sehat dengan cita rasa tradisional dan bahan berkualitas dari petani lokal.
               </p>
             </div>
           </div>
@@ -36,13 +35,13 @@ const Footer = () => {
             <div className="grid grid-cols-2 gap-6 sm:grid-cols-3 md:grid-cols-4">
               <div>
                 <h3 className="text-gray-700 uppercase dark:text-white">
-                  Tentang
+                  Tentang 
                 </h3>
                 <Link
                   to="/"
                   className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
                 >
-                  SMK Daarussaadah
+                  Alamijo Store
                 </Link>
                 <Link
                   to="/"
@@ -117,10 +116,10 @@ const Footer = () => {
                   Kontak
                 </h3>
                 <span className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">
-                  +62 85300000
+                  088293399794
                 </span>
                 <span className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">
-                  info@smk-daarussaadah.sch.id
+                  info@alamijostore.com
                 </span>
               </div>
             </div>
@@ -131,7 +130,7 @@ const Footer = () => {
 
         <div>
           <p className="text-center text-gray-800 dark:text-white">
-            © SMK Daarussaadah 2025 - All rights reserved
+            © Alamijo Store 2025 - All rights reserved
           </p>
         </div>
       </div>

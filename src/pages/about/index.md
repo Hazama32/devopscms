@@ -1,37 +1,45 @@
 ---
 templateKey: about-page
 title: Tentang Kami
-heading: Tentang SMK Daarussaadah Kota Tangerang
-subheading: Visi Misi, Prestasi, Kegiatan dan Jurusan
+heading: Tentang Alamijo Store
+subheading: Kacang Hijau Berkualitas, Langsung dari Alam
 team:
-  - name: Prestasi Siswa
-    image: /img/img_2393.jpg
-    title: SMK Daarussaadah Kota Tangerang
-  - name: Kegiatan Siswa
-    title: SMK Daarussaadah Kota Tangerang
-    image: /img/img_4974.jpg
+  - name: Kacang Hijau
+    image: /img/hijau.jpeg
+    title: Botol Kemasan Kacang Hijau yang alami dan enak
+  # - name: Kegiatan Siswa
+  #   title: SMK Daarussaadah Kota Tangerang
+  #   image: /img/img_4974.jpg
 ---
-### **SMK Daarussaadah Berpesantren**
+### Perkenalan tentang Alamijo Store
 
-i﻿si tentang SMK Daarussaadah, mulai dari berdirinya, kegiatannya motivasinya dll.
+Selamat datang di Alamijo, rumah bagi minuman kacang hijau alami berkualitas terbaik. Di Alamijo, kami percaya bahwa makanan sehat berasal dari bahan yang murni dan alami. Itulah mengapa setiap butir kacang hijau kami dipilih secara teliti, tanpa bahan pengawet, tanpa tambahan zat kimia, dan diproses dengan standar kebersihan tinggi. Kami berkomitmen menyajikan minuman yang bukan hanya lezat, tetapi juga kaya gizi, aman, dan membawa manfaat nyata untuk kesehatan keluarga Anda. Melalui proses produksi yang higienis, Alamijo menghadirkan cita rasa tradisional kacang hijau dengan sentuhan modern, menjaga kebaikan alami di setiap botolnya. Kami hadir untuk mendukung Anda menjalani gaya hidup sehat, praktis, dan penuh energi, dengan pilihan minuman yang dapat dinikmati oleh semua kalangan—dari anak-anak hingga orang dewasa.
 
-## **Visi**
+![Kacang Hijau](/img/banner1.jpg "Kacang Hijau")
 
-Isi dengan visi dari SMK Daarussaadah
+### Manfaat beli produk kami
 
-## **Misi**
+1. Produk Alami & Sehat
+Semua kacang hijau dan olahan kami berasal dari bahan alami, tanpa bahan pengawet atau tambahan kimia berbahaya.
 
-1. i﻿si dengan misi-misi
+2. Kualitas Terjamin
+Setiap butir kacang hijau dipilih secara teliti dan diproses secara higienis untuk menjaga kandungan gizi dan rasa autentik.
 
-![Tasakuran SMK Daarussaadah](/img/img_2242.jpg "Kegiatan Tasakuran SMK Daarussaadah")
+3. Harga Terjangkau
+Kami menjaga agar produk tetap ramah di kantong tanpa mengorbankan kualitas.
 
-### Jurusun Teknik Komputer Jaringan (TKJ)
+4. Dukung Petani Lokal
+Dengan membeli di Alamijo, kamu turut mendukung petani lokal untuk terus tumbuh dan berdaya saing.
 
-Jurusan Teknik Komputer dan Jaringan (TKJ) adalah salah satu program keahlian yang ada di sekolah menengah kejuruan (SMK) yang mempelajari tentang teknologi informasi dan komunikasi terkait dengan penggunaan dan pemeliharaan perangkat keras dan perangkat lunak, serta jaringan komputer.
+5. Pelayanan Ramah dan Responsif
+Kami siap melayani pertanyaan dan pesanan dengan cepat, ramah, dan profesional.
 
-Siswa yang mengambil program TKJ akan mempelajari materi seperti pemrograman komputer, pengoperasian sistem komputer, desain dan pengembangan website, administrasi jaringan komputer, keamanan jaringan, dan pengujian perangkat lunak. Selain itu, siswa juga akan mendapatkan praktikum untuk mengasah keterampilan dan pengalaman dalam bidang teknologi informasi dan komunikasi.
+6. Cocok untuk Semua Usia
+Produk kami dapat dinikmati oleh anak-anak, dewasa, hingga lansia—baik sebagai camilan sehat maupun minuman bergizi.
 
-Setelah lulus dari program TKJ, siswa akan memiliki keterampilan yang dibutuhkan untuk bekerja di berbagai industri yang berhubungan dengan teknologi informasi dan komunikasi, seperti:
+7. Kemasan Praktis & Siap Konsumsi
+Produk minuman kacang hijau kami hadir dalam kemasan siap saji, praktis untuk dibawa ke sekolah, kantor, atau bepergian.
 
-1. Perusahaan teknologi, penyedia layanan internet, dan perusahaan telekomunikasi. 
-2. Selain itu, siswa juga dapat melanjutkan pendidikan ke jenjang yang lebih tinggi, seperti program sarjana di bidang teknik informatika atau teknologi informasi.
+8. Pilihan Tepat untuk Gaya Hidup Sehat
+Kacang hijau kaya akan protein nabati, serat, vitamin B, dan antioksidan alami—bagus untuk energi harian dan pencernaan.
+
